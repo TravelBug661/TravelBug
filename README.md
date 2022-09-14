@@ -1,8 +1,7 @@
 # TravelBug
-# Cinema Paradiso
 
 ```
-App, built using frontend React+Redux and backend using Django 
+Travel Bug, built using frontend React+Redux and backend using Django 
 ```
 
 ## Description
